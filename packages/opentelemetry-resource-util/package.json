@@ -1,6 +1,6 @@
 {
   "name": "@google-cloud/opentelemetry-resource-util",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "Resource util used by other @google-cloud/opentelemetry* packages",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
@@ -59,7 +59,7 @@
     "sinon": "15.0.1",
     "snap-shot-it": "7.9.10",
     "ts-mocha": "10.0.0",
-    "typescript": "4.9.4"
+    "typescript": "4.9.5"
   },
   "peerDependencies": {
     "@opentelemetry/resources": "^1.0.0",
